@@ -1,2 +1,2 @@
 # COBOL
-my sample Cobol code written with gnucobol
+ Sample COBOL code written with gnucobol
